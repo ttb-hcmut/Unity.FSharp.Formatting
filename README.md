@@ -2,6 +2,8 @@
 
 ![](./docs/content/images/buf_write_io.png)
 
+![Live preview of this repository's documentation](https://ttb-hcmut.github.io/Unity.FSharp.Formatting)
+
 Features:
  
 - Separation between Scripting API a.k.a. API Reference pages, and Manual a.k.a. Documentation pages. A Scripting API page may have a counterpart Manual page (and vice versa), and the website will detect this and show a "Switch to Manual" button.
