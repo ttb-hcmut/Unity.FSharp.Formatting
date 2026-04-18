@@ -33,3 +33,5 @@ dotnet tool install --global fsdocs-tool
 ```bash
 dotnet tool exec fsdocs-tool build --output _www --parameters root /Unity.FSharp.Formatting/
 ```
+
+Maintainer: Kinten Le <kinten108101@protonmail.com>.
