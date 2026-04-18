@@ -26,6 +26,12 @@ Variants
 
 ## Development
 
+This theme is composed of a collection of static-asset files (HTML, CSS, etc) and there is no build system, they should be usable as-is.
+
+This repository doesn't contain any real-world sample website using the template. There is the documentation website, but it is only for showcasing some prominent features. It is recommended that the contributor is working with an existing codebase using this template. For a list of known such codebases, contact the maintainer (below).
+
+## Generate this documentation
+
 ```bash
 dotnet tool install --global fsdocs-tool
 ```
@@ -34,4 +40,6 @@ dotnet tool install --global fsdocs-tool
 dotnet tool exec fsdocs-tool build --output _www --parameters root /Unity.FSharp.Formatting/
 ```
 
-Maintainer: Kinten Le <kinten108101@protonmail.com>.
+## Maintainer
+
+Kinten Le <kinten108101@protonmail.com>.
