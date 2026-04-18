@@ -2,7 +2,7 @@
 
 ## Docs
 
-### [index](/Unity.FSharp.Formatting/index.md)
+### [index](/Unity.FSharp.Formatting/manual/index.md)
 
 Hi
 
