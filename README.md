@@ -14,6 +14,8 @@ Features:
 
 Comparison
 
+Variants
+
 ## Installation
 
 ### As a Unity package
