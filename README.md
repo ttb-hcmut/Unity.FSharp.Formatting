@@ -28,9 +28,11 @@ Variants
 
 This theme is composed of a collection of static-asset files (HTML, CSS, etc) and there is no build system, they should be usable as-is.
 
-This repository doesn't contain any real-world sample website using the template. There is the documentation website, but it is only for showcasing some prominent features. It is recommended that the contributor is working with an existing codebase using this template. For a list of known such codebases, contact the maintainer (below).
+This repository doesn't contain any real-world sample website using the template. There is this repository's live demo documentation website, but it is only for showcasing some prominent features. It is recommended that the contributor is working with an existing codebase using this template. For a list of known such codebases, contact the maintainer (below).
 
 ## Generate this documentation
+
+The live demo is a statically generated website distributed at the `./www` folder. The content of this folder has to be regenerated on changes of our docs (at `./docs`) and these changes must be pushed to GitHub, then the website will reflect these changes thanks to our CI/CD workflow.
 
 ```bash
 dotnet tool install --global fsdocs-tool
