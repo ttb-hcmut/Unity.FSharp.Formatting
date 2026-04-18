@@ -2,7 +2,7 @@
 
 ![](./docs/content/images/buf_write_io.png)
 
-[Live preview of this repository's documentation](https://ttb-hcmut.github.io/Unity.FSharp.Formatting)
+[Live preview of this repository's documentation](https://ttb-hcmut.github.io/Unity.FSharp.Formatting/manual/index.html)
 
 Features:
  
