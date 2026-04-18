@@ -1,6 +1,4 @@
-Unity.FSharp.Formatting
-=======================
-(Unofficial) Unity Documentation Theme for the FSharp.Formatting documentation generator. For use with F#-based Unity projects.
+**`Unity.FSharp.Formatting`** is the (unofficial) Unity Documentation Theme for the FSharp.Formatting documentation generator. For use with F#-based Unity projects.
 
 ![](./docs/content/images/buf_write_io.png)
 
