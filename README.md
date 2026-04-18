@@ -12,3 +12,10 @@ Features:
 - Function as a conventional, well-form fsdocs documentation website, including: namespace documentation, description summary and expand, on-hover definitions, etc.
 - Local-first. All assets are self-hosted, website can be launched in localhost off-line. This is unlike the default template of fsdocs which requires downloading remote font assets from Google Fonts.
 
+Comparison
+
+## Installation
+
+### As a Unity package
+
+### Standalone
